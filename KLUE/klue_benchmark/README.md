@@ -15,3 +15,7 @@
 
 6. sts: Semantic Textual Similarity (의미적 텍스트 유사도)  
 두 문장 간의 의미적 유사도를 측정하는 작업으로, 두 문장이 얼마나 비슷한 의미를 가지고 있는지를 평가
+
+7. wos
+
+8. ynat
