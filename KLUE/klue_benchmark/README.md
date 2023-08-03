@@ -1,27 +1,17 @@
-# memo_english
+1. dp: Dependency Parsing (의존 구문 분석)
+문장 내 단어들 간의 문법적인 관계를 파악하는 것으로, 어떤 단어가 주어인지, 목적어인지 등의 문법적 정보를 추출하는 작업
 
-## dp:
-dependency parsing
-## mrc:
-## ner
-named entitiy recognition 
-## nli:
+2. mrc: Machine Reading Comprehension (기계 독해)
+기계 독해는 주어진 문맥에서 질문과 답변을 이해하고 연결짓는 작업으로, 주어진 문서나 문장에서 필요한 정보를 추출하여 질문에 대한 답변을 찾아내는 것을 의미
 
-## re:
+3. ner: Named Entity Recognition (개체명 인식)
+문장 내에서 이름이 있는 특정한 유형의 개체(인물, 장소, 날짜 등)를 인식하고 분류하는 작업
 
-## sts:
+4. nli: Natural Language Inference (자연어 추론)
+자연어 추론은 두 문장 간의 관계를 분류하는 작업으로, 주어진 전제문과 가설문 사이의 관계를 판별하는 것을 포함
 
-<br>
+5. re: Relation Extraction (관계 추출)
+문장에서 엔티티 간의 관계를 추출하거나 분류하는 작업으로, 예를 들어 "A는 B의 형제입니다"와 같은 관계를 추출하는 것을 포함
 
-# 기록_한국어
-
-## dp:
-의존 구문 분석
-## mrc:
-## ner
-개체명 인식
-## nli:
-
-## re:
-
-## sts:
+6. sts: Semantic Textual Similarity (의미적 텍스트 유사도)
+두 문장 간의 의미적 유사도를 측정하는 작업으로, 두 문장이 얼마나 비슷한 의미를 가지고 있는지를 평가
